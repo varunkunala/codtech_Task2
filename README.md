@@ -1,5 +1,5 @@
-**Name**: TELURU SAMPATH KUMAR<br>
-**ID**:CT6WDS201<br>
+**Name*:KUNALA VARUN KUMAR REDDY>br<
+**ID**:CT6WDS238<br>
 **Company**: CODETECH IT SOLUTIONS<br>
 **Domain**: PYTHON PROGRAMMING<br>
 **Duration**: 10Th JUNE to 22Nd JULY 2024<br>
